@@ -20,9 +20,6 @@ require "Items/ItemPicker"
 	table.insert(SuburbsDistributions["changeroom"]["locker"].items, "GG.GroinGuard");
 	table.insert(SuburbsDistributions["changeroom"]["locker"].items, 10);
 
-	table.insert(SuburbsDistributions["bedroom"]["junk"].items, "GG.GroinGuard");
-	table.insert(SuburbsDistributions["bedroom"]["junk"].items, 10);
-
 	table.insert(SuburbsDistributions["Bag_Schoolbag"].items, "GG.GroinGuard");
 	table.insert(SuburbsDistributions["Bag_Schoolbag"].items, 10);
 
