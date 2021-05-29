@@ -1,0 +1,11 @@
+module Base
+{
+    recipe Refresh Groing Guard
+	{
+		GroinGuard,
+
+		Result:GroinGuard,
+		Time:10.0,
+		Category:Carpentry
+	}
+}

@@ -1,0 +1,20 @@
+module Base
+{		
+	item GroinGuard
+	
+    {
+    Type = Clothing,
+    DisplayName = Groin Guard,
+        BodyLocation = Sweater,
+    BloodLocation = Groin,
+    Icon = GroinGuard,
+    ScratchDefense = 90,
+        BiteDefense = 80,
+        Weight = 0.5,
+        Insulation = 50,
+        WindResistance = 90,
+        WaterResistance = 0.10,
+        Weight = 2,
+    }
+
+}
