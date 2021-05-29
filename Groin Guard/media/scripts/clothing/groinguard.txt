@@ -5,7 +5,7 @@ module Base
     {
     Type = Clothing,
     DisplayName = Groin Guard,
-        BodyLocation = Sweater,
+    BodyLocation = Underwear,
     BloodLocation = Groin,
     Icon = GroinGuard,
     ScratchDefense = 90,
