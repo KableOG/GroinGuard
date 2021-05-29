@@ -14,7 +14,7 @@ module Base
         Insulation = 50,
         WindResistance = 90,
         WaterResistance = 0.10,
-        Weight = 2,
+        
     }
 
 }
