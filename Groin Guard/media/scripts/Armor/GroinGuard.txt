@@ -2,7 +2,7 @@ module Base
 {		
 	item GroinGuard
 	{
-	Type = Armor,
+	Type = Clothing,
 	DisplayName = Groin Guard,
 	ClothingItem = GroinGuard,
 	BodyLocation = Underwear,
